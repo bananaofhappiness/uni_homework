@@ -1,5 +1,6 @@
 /venv
 /.jukit
 /.ipynb_checkpoints
-/HW02_16.11/.jukit
-/HW02_16.11/.ipynb_checkpoints
+**/.jukit
+**/.ipynb_checkpoints
+**/*.py
