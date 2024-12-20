@@ -1,0 +1,27 @@
+uni_homework/HW04/hw04.py
+hw04.py
+~/git/uni_homework/HW04/.jukit/hw04_outhist.json
+~/git/uni_homework/HW03/hw03.ipynb
+uni_homework/HW03/hw03.py
+/Users/egor/uni_homework/HW06/hw06.ipynb
+uni_homework/HW06/dirs.txt
+uni_homework/HW06/text1.txt
+text1.txt
+~/git/uni_homework/HW06/text3.txt
+~/git/uni_homework/HW06/text2.txt
+uni_homework/HW06/text.txt
+text.txt
+~/git/uni_homework/HW06/hw06.py
+~/git/uni_homework/HW06/fake_mp3s/another singer - 2 - song 2.mp3
+uni_homework/HW06/fake_mp3s/another singer - 3 - song 3.mp3
+/Users/egor/uni_homework/HW06/fake_mp3s/not_a_song.mp4
+uni_homework/HW06/fake_mp3s/new-singer - 2 - song-2.mp3
+new-singer - 2 - song-2.mp3
+/Users/egor/uni_homework/HW06/fake_mp3s/singer - 1 - song 1.mp3
+uni_homework/HW06/fake_mp3s/singer - 2 - song 2.mp3
+uni_homework/HW06/fake_mp3s/new-singer - 1 - song-1.mp3
+uni_homework/.jukit/hw06_outhist.json
+/Users/egor/uni_homework/HW06/fake_mp3s/author - 1 - video.mp4
+uni_homework/HW06/fake_mp3s/another singer - 1 - song 1.mp3
+tipa\Windows\path.bat
+C:tipa\another\Windows\path.docx
